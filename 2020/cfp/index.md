@@ -50,7 +50,7 @@ and position paper submissions.
 
 # Important Dates
 
-  * Submission deadline: August 15, 2020
+  * Submission deadline: ~~August 15, 2020~~ August 30th, 2020
   * _Retraction deadline for papers accepted to for the main EMNLP conference: September 15, 2020_
   * Notification of acceptance: September 29, 2020
   * Camera-ready deadline: October 10, 2020
